@@ -1,2 +1,1 @@
-# GOT---Game-in-Nodejs
-MMORPG based on GOT
+MMORPG based on GOT using nodejs
